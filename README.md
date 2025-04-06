@@ -18,7 +18,6 @@ make heron
 Or manually:
 
 ```bash
-
 riscv64-linux-gnu-g++ -static -march=rv64gc -mabi=lp64d -o heron heron.cpp
 
 Run with QEMU:
