@@ -26,3 +26,6 @@ Run with QEMU:
 ```bash
 qemu-riscv64 ./heron
 ```
+## Sample Output
+
+![Sample Output](output.png)
