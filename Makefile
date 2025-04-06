@@ -1,4 +1,3 @@
-# Makefile for Heron's formula pseudo custom instruction
 
 CXX=riscv64-linux-gnu-g++
 CXXFLAGS=-static -march=rv64gc -mabi=lp64d
