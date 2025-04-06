@@ -1,0 +1,11 @@
+# Ignore build outputs
+muladd
+heron
+*.o
+*.out
+*.exe
+
+# Ignore temporary files
+*~
+*.swp
+*.swo
