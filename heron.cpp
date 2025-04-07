@@ -21,7 +21,10 @@ int32_t heron_area_squared(int32_t a,int32_t b,int32_t c){
 }
 
 int main(){
-    int a = 3, b = 4, c = 5;
+    //int a = 3, b = 4, c = 5;
+    int a, b, c;
+    printf("Enter sides a, b, c: ");
+    scanf("%d %d %d", &a, &b, &c);
     int32_t area_squared = heron_area_squared(a, b, c);
     printf("Heron Area^2: %d\n", area_squared);
     return 0;
