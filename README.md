@@ -2,7 +2,7 @@ https://github.com/Shristi-78/custom-instruction/
 
 # custom-instruction
 
-This project demonstrates how to simulate custom RISC-V instructions using inline assembly in C++.
+Implementing a true custom instruction in RISC-V (i.e., one that can be executed by QEMU and compiled using GCC), specifically to compute Heron’s formula .
 
 ##How to Build
 
